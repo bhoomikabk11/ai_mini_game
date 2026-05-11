@@ -15,7 +15,28 @@ An interactive AI-based game developed to provide an engaging and fun gaming exp
 * HTML
 * CSS
 * JavaScript
-* AI/Game Logic Algorithms
+
+## How to Run the Project
+
+1. Download or clone the repository:
+
+```bash
+git clone <repository-link>
+```
+
+2. Open the project folder:
+
+```bash
+cd AI-Game
+```
+
+3. Open the project in VS Code or any code editor.
+
+4. Run the project:
+
+* Open the `index.html` file directly in your browser
+  OR
+* Use the VS Code **Live Server** extension for a better experience.
 
 ## Purpose
 
